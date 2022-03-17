@@ -1,0 +1,31 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\TutorialApp.scala:3:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.application.JFXApp3[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\TutorialApp.scala:4:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.geometry.Insets[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\TutorialApp.scala:5:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.Scene[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\TutorialApp.scala:6:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.effect.DropShadow[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\TutorialApp.scala:7:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.layout.HBox[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\TutorialApp.scala:8:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.paint.Color._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\TutorialApp.scala:9:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.paint._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\TutorialApp.scala:10:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.text.Text[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\TutorialApp.scala:12:28: not found: type JFXApp3[0m
+[0m[[0m[31merror[0m] [0m[0mobject TutorialApp extends JFXApp3 {[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\TutorialApp.scala:14:5: not found: value stage[0m
+[0m[[0m[31merror[0m] [0m[0m    stage = new JFXApp3.PrimaryStage {[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m10 errors found[0m
