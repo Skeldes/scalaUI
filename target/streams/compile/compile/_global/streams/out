@@ -1,7 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\properties.scala:3:8: object Binding is not a member of package scalafx.beans.binding[0m
-[0m[[0m[31merror[0m] [0m[0mimport scalafx.beans.binding.Binding[0m
-[0m[[0m[31merror[0m] [0m[0m       ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\properties.scala:89:13: not found: value Binding[0m
-[0m[[0m[31merror[0m] [0m[0m    val b = Binding.createStringBinding([0m
-[0m[[0m[31merror[0m] [0m[0m            ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\thomas\Desktop\testscala\src\main\scala\tutorial\webapp\DialAndAlert.scala:13:23: not found: value AlertType[0m
+[0m[[0m[31merror[0m] [0m[0m            new Alert(AlertType.Information, "Hello Dialogs !!!").showAndWait()[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
